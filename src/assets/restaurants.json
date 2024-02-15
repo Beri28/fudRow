@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"Wwangis",
+        "image":"/assets/img/logo-white.png",
+        "meals":"2"
+    },
+    {
+        "id":2,
+        "name":"Bbeiruj",
+        "image":"/assets/img/logo-white.png",
+        "meals":"1"
+    },
+    {
+        "id":3,
+        "name":"Tbc",
+        "image":"/assets/img/logo-white.png",
+        "meals":"5"
+    }
+]

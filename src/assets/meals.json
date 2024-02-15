@@ -1,0 +1,32 @@
+[
+    {
+    "id" :"1",
+    "name":"rice",
+    "restaurantName":"Wwangis",
+    "dueDate":"6",
+    "price":"2000",
+    "promoPrice":"700",
+    "valid-for":"2hours",
+    "type":"restaurant"
+    },
+    {
+        "id" :"2",
+        "name":"fufu",
+        "restaurantName":"Tbc",
+        "dueDate":"6",
+        "price":"2000",
+        "promoPrice":"700",
+        "valid-for":"2hours",
+        "type":"bakery"
+    },
+    {
+        "id" :"3",
+        "name":"Eru",
+        "restaurantName":"Bbeiruj",
+        "dueDate":"6",
+        "price":"2000",
+        "promoPrice":"700",
+        "valid-for":"2hours",
+        "type":"restaurant"
+    }
+]
