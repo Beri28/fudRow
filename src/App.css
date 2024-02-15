@@ -99,7 +99,7 @@ a:hover{
 }
 .item-img img{
     border-radius: 15px;
-    height: 95%;
+    /*height: 95%;*/
 }
 .group-name:hover{
     cursor: pointer;
